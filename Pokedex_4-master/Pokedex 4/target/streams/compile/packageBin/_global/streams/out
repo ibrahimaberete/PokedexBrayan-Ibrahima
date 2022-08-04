@@ -1,0 +1,57 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\pokedex_3-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\db[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\db[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\db\Pokemon$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\db\Pokemon$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\db\Pokemon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\db\Pokemon.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\db\Pokemon.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\db\Pokemon.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexGET$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexGET$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexGET.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexGET.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexGET.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexGET.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexGETGeneration$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexGETGeneration$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexGETGeneration.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexGETGeneration.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexGETGeneration.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexGETGeneration.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexGETLegendary$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexGETLegendary$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexGETLegendary.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexGETLegendary.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexGETLegendary.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexGETLegendary.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexGETRegion$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexGETRegion$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexGETRegion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexGETRegion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexGETRegion.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexGETRegion.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexGETType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexGETType$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexGETType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexGETType.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexGETType.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexGETType.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexMATCH$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexMATCH$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexMATCH.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexMATCH.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexMATCH.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexMATCH.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexWHEREIS$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexWHEREIS$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexWHEREIS.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexWHEREIS.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\pokedex\PokedexWHEREIS.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\target\scala-3.1.3\classes\com\pokedex\PokedexWHEREIS.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

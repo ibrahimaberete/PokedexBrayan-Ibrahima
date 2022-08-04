@@ -1,0 +1,21 @@
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\src\main\scala\com\pokemon\Pokedex.scala:36:10 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m36 |[0m          [33mval[0m [36mgen[0m = readLine()[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m          ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m          Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\src\main\scala\com\pokemon\Pokedex.scala:37:10 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m37 |[0m          [33mval[0m [36mhttp[0m = [31m"https://pokeapi.co/api/v2/generation/"[0m+gen[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m          ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m          Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\src\main\scala\com\pokemon\Pokedex.scala:38:10 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m38 |[0m          [33mval[0m [36mresult[0m = scala.io.Source.fromURL(http).mkString[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m          ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m          Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\src\main\scala\com\pokemon\Pokedex.scala:39:10 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m39 |[0m          println(result)[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m          ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m          Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\RDIUP\Downloads\Pokedex_4\Pokedex 4\src\main\scala\com\pokemon\Pokedex.scala:40:10 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m40 |[0m          println(http)[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m   |[0m          ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m   |[0m          Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0m5 warnings found[0m
